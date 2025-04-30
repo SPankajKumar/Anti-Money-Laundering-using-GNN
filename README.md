@@ -5,8 +5,7 @@
 Anti-Money Laundering Using Graph Neural Networks
 							
 
-Pankajkumar S,21BCE1655
-					
+		
 
 
 
